@@ -1,2 +1,2 @@
-$ cat GIT/my.gitignore
+$ cat .gitignore
 *.png
