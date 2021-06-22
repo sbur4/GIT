@@ -1,3 +1,7 @@
+touch ~/.gitignore_global / git config --global core.excludesfile ~/.gitignore_global
+git rm --cached filename
+git status --ignored
+
 $ git status
     [...]
     # Untracked files:
